@@ -1,0 +1,18 @@
+torch
+numpy 
+seaborn
+matplotlib
+pandas
+scikit-learn
+flask
+flask-Cors
+tqdm
+python-box == 7.1.1
+ensure == 1.0.4
+joblib
+scipy
+pyYAML
+types-pyYAML
+dvc
+streamlit 
+-e .
